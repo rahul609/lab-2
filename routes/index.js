@@ -12,7 +12,7 @@ router.get('/', (req, res, next) => {
 
 /* GET Rahul */
 router.get('/rahul', (req, res, next) => {
-    res.render('Rahul', {
+    res.render('rahul', {
         title: 'Profile',
         name: 'Name: Rahul Chopra',
         age: 'Age: 19',
@@ -23,7 +23,7 @@ router.get('/rahul', (req, res, next) => {
 
 /* GET Aviral */
 router.get('/aviral', (req, res, next) => {
-    res.render('Aviral', {
+    res.render('aviral', {
         title: 'Profile',
         name: 'Name: Aviral Masson',
         age: 'Age: 21',
