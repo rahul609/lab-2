@@ -1,0 +1,32 @@
+body {
+    padding: 50px;
+    font: 20px "Lucida Grande", Helvetica, Arial, sans-serif; }
+
+a {
+    color: #00B7FF; }
+
+.jumbotron {
+    font-size: 0px;
+    text-align: center;
+    background: black;
+    color: aliceblue; }
+
+
+img
+
+{
+
+    border: black 10px solid;
+
+
+}
+
+p
+{
+
+    font-family: "Oswald";
+
+
+
+}
+/*# sourceMappingURL=style.css.map */
